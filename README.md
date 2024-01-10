@@ -1,7 +1,7 @@
 # LakeHopper
 This is the repository for the code and data of LakeHopper.
 
-![Overview of LakeHopper](./pipeline.png)
+![Overview of LakeHopper](./pipelines.png)
 
 ## Install
 
